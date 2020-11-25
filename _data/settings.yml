@@ -1,12 +1,12 @@
-title: Your name or name of site
-description: A website with a blog
+title: The Long Story Shorter
+description: Publishing hopeful tries his best
+footer_text: Copyright 2020 Nick Short
+header_feature_image: ../uploads/pages.jpg
 header_text: My Dream Blog
 header_text_color: "#ffffff"
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
-logo: /uploads/logo.jpg
+bannerheight: 20vmax
+logo: ../uploads/logo.png
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: false
